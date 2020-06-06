@@ -10,6 +10,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.io.FileHandler;
 import org.openqa.selenium.support.ui.Select;
 
+
+//comment added
 public class BmiCalculator 
 {
 	public static void main(String args[]) throws InterruptedException, IOException

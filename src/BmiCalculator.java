@@ -14,6 +14,8 @@ import org.openqa.selenium.support.ui.Select;
 //comment added
 
 //c2nd coment added
+
+//3rd comment added
 public class BmiCalculator 
 {
 	public static void main(String args[]) throws InterruptedException, IOException

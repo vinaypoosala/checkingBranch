@@ -24,7 +24,7 @@ public class BmiCalculator
 		WebDriver driver = new ChromeDriver();
 		String l = "https://www.calculator.net/";
 		driver.get(l);
-		System.out.println("djbdj");
+		System.out.println("djbdjbhjhjb");
 		System.out.println(driver.getTitle());
 		driver.findElement(By.linkText("BMI Calculator")).click();
 		Thread.sleep(3000);
